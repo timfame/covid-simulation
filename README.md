@@ -1,5 +1,4 @@
-# FP homework
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timfame/covid-simulation/blob/main/LICENSE)
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timfame/fp-homework/blob/master/LICENSE)
-
-Haskell homework project for [FP ITMO course](https://github.com/jagajaga/FP-course-ITMO).
+There is `simulateCOVID` function, that simulates the spread of the disease by specified `Config`.\
+It invokes in Main, so you can check it by simply running `stack run`.
