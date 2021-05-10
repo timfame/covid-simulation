@@ -12,6 +12,7 @@ instance Show Cell where
   show (Cell Recovered _ _)  = "@"
 ```
 
+Example:
 ```
 . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . .
